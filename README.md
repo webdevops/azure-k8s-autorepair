@@ -5,6 +5,17 @@ Azurer Kubernetes AutoRepair
 [![Docker](https://img.shields.io/badge/docker-webdevops%2Fazure--k8s--autorepair-blue.svg?longCache=true&style=flat&logo=docker)](https://hub.docker.com/r/webdevops/azure-k8s-autorepair/)
 [![Docker Build Status](https://img.shields.io/docker/cloud/build/webdevops/azure-k8s-autorepair)](https://hub.docker.com/r/webdevops/azure-k8s-autorepair/)
 
+
+
+---------------------
+
+**---> replaced by [azure-k8s-autopilot](https://github.com/webdevops/azure-k8s-autopilot) <---**
+
+---------------------
+
+
+
+
 Services which checks node status and triggeres an automatic Azure VM redeployment to try to solve VM issues.
 
 Supports Azure AKS and custom Azure Kubernetes clusters.
